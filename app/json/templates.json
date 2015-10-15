@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Blue Theme",
+    "description": "some description",
+    "type": "html5",
+    "price": "9.99",
+    "images": [
+      {
+        "name": "img/blue.jpg"
+      },
+      {
+        "name": "img/blue2.jpg"
+      },
+      {
+        "name": "img/blue3.jpg"
+      },
+      {
+        "name": "img/blue4.jpg"
+      },
+      {
+        "name": "img/blue5.jpg"
+      },
+      {
+        "name": "img/blue6.jpg"
+      }
+    ]
+  },
+  {
+   "id": 2,
+    "name": "Red Theme",
+    "description": "some description",
+    "type": "html5",
+    "price": "9.99",
+    "images": [
+      {
+        "name": "img/red.jpg"
+      }
+    ],
+    "soldOut": true
+  },
+  {
+   "id": 3,
+    "name": "Orange Theme",
+    "description": "some description",
+    "type": "html5",
+    "price": "19.99",
+    "images": [
+      {
+        "name": "img/orange.jpg"
+      }
+    ],
+    "soldOut": true
+  },
+  {
+   "id": 4,
+    "name": "Grey Theme",
+    "description": "some description",
+    "type": "html5",
+    "price": "19.99",
+    "images": [
+      {
+        "name": "img/gray.jpg"
+      }
+    ]
+  },
+  {
+   "id": 5,
+    "name": "Green Theme",
+    "description": "some description",
+    "type": "html5",
+    "price": "19.99",
+    "images": [
+      {
+        "name": "img/green.jpg"
+      }
+    ]
+  },
+  {
+   "id": 6,
+    "name": "Purple Theme",
+    "description": "some description",
+    "type": "html5",
+    "price": "1.99",
+    "images": [
+      {
+        "name": "img/purple.jpg"
+      }
+    ],
+    "soldOut": true
+  }
+]
